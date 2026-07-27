@@ -8215,12 +8215,17 @@
     "10EC": "ZELP LTD",
     "10ED": "BRITA SE",
     "10EE": "Shanghai XYLink Limited Corporation",
-    "10EF": "Keto-Check Inc."
+    "10EF": "Keto-Check Inc.",
+    "10F0": "RFID N PRINT PTY LTD",
+    "10F1": "Ralston Instruments, LLC",
+    "10F2": "CHIGEE TECHNOLOGY CO., LTD.",
+    "10F3": "EURODIMA GmbH & CoKG",
+    "10F4": "SUPERARK LTD"
   },
   "counts": {
     "appearances": 342,
     "characteristics": 504,
-    "companyIdentifiers": 3982,
+    "companyIdentifiers": 3987,
     "descriptors": 24,
     "services": 75
   },
@@ -8346,7 +8351,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-07-17",
+  "generatedAt": "2026-07-27",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8726,7 +8731,7 @@
     }
   },
   "source": {
-    "commit": "4a9a4e1cb01ee577e7f221d757a1818fc67319a8",
+    "commit": "3b58acd4d2446e68f5539acac46c3b4941a34747",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
