@@ -8220,12 +8220,19 @@
     "10F1": "Ralston Instruments, LLC",
     "10F2": "CHIGEE TECHNOLOGY CO., LTD.",
     "10F3": "EURODIMA GmbH & CoKG",
-    "10F4": "SUPERARK LTD"
+    "10F4": "SUPERARK LTD",
+    "10F5": "Shenzhen DeepX Technology Co., Ltd.",
+    "10F6": "Pressure Systems International, Inc.",
+    "10F7": "HEX INNOVATE (UK) LIMITED",
+    "10F8": "IONLINE INTERNET SERVICE PROVIDER",
+    "10F9": "Even Realities Ltd.",
+    "10FA": "QPlay Ltd",
+    "10FB": "Hydratune Australia Pty Ltd"
   },
   "counts": {
     "appearances": 342,
     "characteristics": 504,
-    "companyIdentifiers": 3987,
+    "companyIdentifiers": 3994,
     "descriptors": 24,
     "services": 75
   },
@@ -8351,7 +8358,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-07-27",
+  "generatedAt": "2026-08-03",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8731,7 +8738,7 @@
     }
   },
   "source": {
-    "commit": "3b58acd4d2446e68f5539acac46c3b4941a34747",
+    "commit": "5528830d3326504481f43c095ae81136fffcf9cb",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
