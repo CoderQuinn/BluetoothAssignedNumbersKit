@@ -8227,12 +8227,15 @@
     "10F8": "IONLINE INTERNET SERVICE PROVIDER",
     "10F9": "Even Realities Ltd.",
     "10FA": "QPlay Ltd",
-    "10FB": "Hydratune Australia Pty Ltd"
+    "10FB": "Hydratune Australia Pty Ltd",
+    "10FC": "CITECH CO.,LTD.",
+    "10FD": "Neurabody Inc.",
+    "10FE": "Daisen Electronic Industrial Co., Ltd."
   },
   "counts": {
     "appearances": 342,
     "characteristics": 504,
-    "companyIdentifiers": 3994,
+    "companyIdentifiers": 3997,
     "descriptors": 24,
     "services": 75
   },
@@ -8358,7 +8361,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-08-03",
+  "generatedAt": "2026-08-10",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8738,7 +8741,7 @@
     }
   },
   "source": {
-    "commit": "5528830d3326504481f43c095ae81136fffcf9cb",
+    "commit": "a4348ab04b3c4772c7b70928ece2b99845b471f1",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
