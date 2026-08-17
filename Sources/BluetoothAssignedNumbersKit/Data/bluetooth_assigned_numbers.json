@@ -4231,6 +4231,41 @@
       "identifier": "org.bluetooth.characteristic.hid_sci_information",
       "name": "HID SCI Information",
       "uuid": "2C3A"
+    },
+    "2C3B": {
+      "identifier": "org.bluetooth.characteristic.tire_pressure",
+      "name": "Tire Pressure",
+      "uuid": "2C3B"
+    },
+    "2C3C": {
+      "identifier": "org.bluetooth.characteristic.tire_temperature",
+      "name": "Tire Temperature",
+      "uuid": "2C3C"
+    },
+    "2C3D": {
+      "identifier": "org.bluetooth.characteristic.tire_acceleration",
+      "name": "Tire Acceleration",
+      "uuid": "2C3D"
+    },
+    "2C3E": {
+      "identifier": "org.bluetooth.characteristic.tpms_properties",
+      "name": "TPMS Properties",
+      "uuid": "2C3E"
+    },
+    "2C3F": {
+      "identifier": "org.bluetooth.characteristic.tpms_duty_cycle",
+      "name": "TPMS Duty Cycle",
+      "uuid": "2C3F"
+    },
+    "2C40": {
+      "identifier": "org.bluetooth.characteristic.tpms_position",
+      "name": "TPMS Position",
+      "uuid": "2C40"
+    },
+    "2C41": {
+      "identifier": "org.bluetooth.characteristic.tpms_signing_key",
+      "name": "TPMS Signing Key",
+      "uuid": "2C41"
     }
   },
   "companyIdentifiers": {
@@ -8230,14 +8265,21 @@
     "10FB": "Hydratune Australia Pty Ltd",
     "10FC": "CITECH CO.,LTD.",
     "10FD": "Neurabody Inc.",
-    "10FE": "Daisen Electronic Industrial Co., Ltd."
+    "10FE": "Daisen Electronic Industrial Co., Ltd.",
+    "10FF": "Sonus Faber spa",
+    "1100": "miThings",
+    "1101": "Nearfaces UG (haftungsbeschränkt)",
+    "1102": "Temple Private Limited",
+    "1103": "BRISANT SECURE LTD",
+    "1104": "Daiichi Elektronik Sanayi ve Ticaret. A.S.",
+    "1105": "Cirrus Design Corporation"
   },
   "counts": {
     "appearances": 342,
-    "characteristics": 504,
-    "companyIdentifiers": 3997,
+    "characteristics": 511,
+    "companyIdentifiers": 4004,
     "descriptors": 24,
-    "services": 75
+    "services": 76
   },
   "descriptors": {
     "2900": {
@@ -8361,7 +8403,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-08-10",
+  "generatedAt": "2026-08-17",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8738,10 +8780,15 @@
       "identifier": "org.bluetooth.service.generic_voice_assistant",
       "name": "Generic Voice Assistant",
       "uuid": "185F"
+    },
+    "1860": {
+      "identifier": "org.bluetooth.service.tire_pressure_monitoring_system",
+      "name": "Tire Pressure Monitoring System",
+      "uuid": "1860"
     }
   },
   "source": {
-    "commit": "a4348ab04b3c4772c7b70928ece2b99845b471f1",
+    "commit": "1415ddd9db5770dd21ecbe53173fbfc09e2943b6",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
