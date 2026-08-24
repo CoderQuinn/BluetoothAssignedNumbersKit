@@ -7340,7 +7340,7 @@
     "0CE3": "Taiwan Fuhsing",
     "0CE4": "Off-Highway Powertrain Services Germany GmbH",
     "0CE5": "Amina Distribution AS",
-    "0CE6": "McWong International, Inc.",
+    "0CE6": "mwConnect",
     "0CE7": "TAG HEUER SA",
     "0CE8": "Dongguan Yougo Electronics Co.,Ltd.",
     "0CE9": "PEAG, LLC dba JLab Audio",
@@ -8272,12 +8272,20 @@
     "1102": "Temple Private Limited",
     "1103": "BRISANT SECURE LTD",
     "1104": "Daiichi Elektronik Sanayi ve Ticaret. A.S.",
-    "1105": "Cirrus Design Corporation"
+    "1105": "Cirrus Design Corporation",
+    "1106": "Flicfit inc.",
+    "1107": "Optrel AG",
+    "1108": "BEMER Int. AG",
+    "1109": "Hamodaz Corporation",
+    "110A": "OnRace Motorsports",
+    "110B": "SIGMA CORPORATION",
+    "110C": "rescuetrack GmbH",
+    "110D": "ARETA AI INC."
   },
   "counts": {
     "appearances": 342,
     "characteristics": 511,
-    "companyIdentifiers": 4004,
+    "companyIdentifiers": 4012,
     "descriptors": 24,
     "services": 76
   },
@@ -8403,7 +8411,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-08-17",
+  "generatedAt": "2026-08-24",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8788,7 +8796,7 @@
     }
   },
   "source": {
-    "commit": "1415ddd9db5770dd21ecbe53173fbfc09e2943b6",
+    "commit": "0e6fbbac5afbcad144479dbdcc1a773a269cbe78",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
