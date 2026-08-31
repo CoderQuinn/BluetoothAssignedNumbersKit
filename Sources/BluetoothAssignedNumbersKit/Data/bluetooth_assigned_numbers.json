@@ -6681,7 +6681,7 @@
     "0A19": "Maxell, Ltd.",
     "0A1A": "Link Labs, Inc.",
     "0A1B": "Embrava Pty Ltd",
-    "0A1C": "INPEAK S.C.",
+    "0A1C": "INPEAK sp. z o.o.",
     "0A1D": "API-K",
     "0A1E": "CombiQ AB",
     "0A1F": "DeVilbiss Healthcare LLC",
@@ -8280,12 +8280,21 @@
     "110A": "OnRace Motorsports",
     "110B": "SIGMA CORPORATION",
     "110C": "rescuetrack GmbH",
-    "110D": "ARETA AI INC."
+    "110D": "ARETA AI INC.",
+    "110E": "Gigawit Electronics LTD",
+    "110F": "Nylint, LLC",
+    "1110": "Hamaton Inc.,",
+    "1111": "RAPSODO PTE. LTD.",
+    "1112": "JustTec GmbH",
+    "1113": "ONXMAPS, INC",
+    "1114": "Metabowerke GmbH",
+    "1115": "Thermia Aktiebolag",
+    "1116": "ALLRA LIMITED"
   },
   "counts": {
     "appearances": 342,
     "characteristics": 511,
-    "companyIdentifiers": 4012,
+    "companyIdentifiers": 4021,
     "descriptors": 24,
     "services": 76
   },
@@ -8411,7 +8420,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-08-24",
+  "generatedAt": "2026-08-31",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8796,7 +8805,7 @@
     }
   },
   "source": {
-    "commit": "0e6fbbac5afbcad144479dbdcc1a773a269cbe78",
+    "commit": "90e83ed1e959291dc903e604d3ec8c3d4ebc8a34",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
