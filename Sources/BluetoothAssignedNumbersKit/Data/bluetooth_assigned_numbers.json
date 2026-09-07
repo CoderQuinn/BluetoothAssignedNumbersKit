@@ -4726,7 +4726,7 @@
     "01DD": "Koninklijke Philips N.V.",
     "01DE": "Minelab Electronics Pty Limited",
     "01DF": "Bison Group Ltd.",
-    "01E0": "Widex A/S",
+    "01E0": "WS Audiology Denmark A/S",
     "01E1": "Jolla Ltd",
     "01E3": "Caterpillar Inc",
     "01E4": "Freedom Innovations",
@@ -5167,7 +5167,7 @@
     "03C2": "Snapchat Inc",
     "03C3": "Casambi Technologies Oy",
     "03C4": "Pico Technology Inc.",
-    "03C5": "St. Jude Medical, Inc.",
+    "03C5": "Abbott Medical",
     "03C6": "Intricon",
     "03C7": "Structural Health Systems, Inc.",
     "03C8": "Avvel International",
@@ -8289,12 +8289,18 @@
     "1113": "ONXMAPS, INC",
     "1114": "Metabowerke GmbH",
     "1115": "Thermia Aktiebolag",
-    "1116": "ALLRA LIMITED"
+    "1116": "ALLRA LIMITED",
+    "1117": "Tive, Inc.",
+    "1118": "Villeroy & Boch AG",
+    "1119": "TSUKURUBAI, LIMITED LIABILITY COMPANY",
+    "111A": "BOKE Drivers Co., Ltd.",
+    "111B": "DIGITANIMAL S.L.",
+    "111C": "Techavtomatica"
   },
   "counts": {
     "appearances": 342,
     "characteristics": 511,
-    "companyIdentifiers": 4021,
+    "companyIdentifiers": 4027,
     "descriptors": 24,
     "services": 76
   },
@@ -8420,7 +8426,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-08-31",
+  "generatedAt": "2026-09-07",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8805,7 +8811,7 @@
     }
   },
   "source": {
-    "commit": "90e83ed1e959291dc903e604d3ec8c3d4ebc8a34",
+    "commit": "8c8353e88bc2563420eb33a830592bba25f8fd68",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
