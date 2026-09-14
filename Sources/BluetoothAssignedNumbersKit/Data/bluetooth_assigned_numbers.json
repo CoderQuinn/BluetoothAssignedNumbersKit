@@ -4266,6 +4266,11 @@
       "identifier": "org.bluetooth.characteristic.tpms_signing_key",
       "name": "TPMS Signing Key",
       "uuid": "2C41"
+    },
+    "2C42": {
+      "identifier": "org.bluetooth.characteristic.cookware_device_id",
+      "name": "Cookware Device ID",
+      "uuid": "2C42"
     }
   },
   "companyIdentifiers": {
@@ -8295,12 +8300,15 @@
     "1119": "TSUKURUBAI, LIMITED LIABILITY COMPANY",
     "111A": "BOKE Drivers Co., Ltd.",
     "111B": "DIGITANIMAL S.L.",
-    "111C": "Techavtomatica"
+    "111C": "Techavtomatica",
+    "111D": "Commodore International Corporation",
+    "111E": "DS TAGS Group B.V.",
+    "111F": "iAppliance Inc."
   },
   "counts": {
     "appearances": 342,
-    "characteristics": 511,
-    "companyIdentifiers": 4027,
+    "characteristics": 512,
+    "companyIdentifiers": 4030,
     "descriptors": 24,
     "services": 76
   },
@@ -8426,7 +8434,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-14",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8811,7 +8819,7 @@
     }
   },
   "source": {
-    "commit": "8c8353e88bc2563420eb33a830592bba25f8fd68",
+    "commit": "3267e25481349dd1471e9addd32e60d8966053d1",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
