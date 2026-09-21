@@ -8303,12 +8303,17 @@
     "111C": "Techavtomatica",
     "111D": "Commodore International Corporation",
     "111E": "DS TAGS Group B.V.",
-    "111F": "iAppliance Inc."
+    "111F": "iAppliance Inc.",
+    "1120": "PI-CRYSTAL INC.",
+    "1121": "ennos ag",
+    "1122": "FUSE BLUEJAY LIMITED",
+    "1123": "Hudl, Inc.",
+    "1124": "DOLLAR JUDGE INC"
   },
   "counts": {
     "appearances": 342,
     "characteristics": 512,
-    "companyIdentifiers": 4030,
+    "companyIdentifiers": 4035,
     "descriptors": 24,
     "services": 76
   },
@@ -8434,7 +8439,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-09-14",
+  "generatedAt": "2026-09-21",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8819,7 +8824,7 @@
     }
   },
   "source": {
-    "commit": "3267e25481349dd1471e9addd32e60d8966053d1",
+    "commit": "b40ef3f20e24916fcb15c62acc5520669d5c4861",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
