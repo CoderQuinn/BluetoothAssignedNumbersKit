@@ -8308,12 +8308,15 @@
     "1121": "ennos ag",
     "1122": "FUSE BLUEJAY LIMITED",
     "1123": "Hudl, Inc.",
-    "1124": "DOLLAR JUDGE INC"
+    "1124": "DOLLAR JUDGE INC",
+    "1125": "Wavarts Technologies, Co., Ltd",
+    "1126": "Hakemann GmbH & Co. KG",
+    "1127": "Permobil AB"
   },
   "counts": {
     "appearances": 342,
     "characteristics": 512,
-    "companyIdentifiers": 4035,
+    "companyIdentifiers": 4038,
     "descriptors": 24,
     "services": 76
   },
@@ -8439,7 +8442,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-09-21",
+  "generatedAt": "2026-09-28",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8824,7 +8827,7 @@
     }
   },
   "source": {
-    "commit": "b40ef3f20e24916fcb15c62acc5520669d5c4861",
+    "commit": "bf121603e6a12a711908a9e43bd248fed2d3d814",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
