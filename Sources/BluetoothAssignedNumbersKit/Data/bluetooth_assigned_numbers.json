@@ -8311,12 +8311,19 @@
     "1124": "DOLLAR JUDGE INC",
     "1125": "Wavarts Technologies, Co., Ltd",
     "1126": "Hakemann GmbH & Co. KG",
-    "1127": "Permobil AB"
+    "1127": "Permobil AB",
+    "1128": "NIC IMPEX",
+    "1129": "I.T.O. Vaarwegmarkering B.V.",
+    "112A": "Flowil International Lighting (Holding) B.V.",
+    "112B": "IXI Eyewear Oy",
+    "112C": "mees audio technology., co.ltd.",
+    "112D": "Aktiia S.A.",
+    "112E": "Oticon Medical AB"
   },
   "counts": {
     "appearances": 342,
     "characteristics": 512,
-    "companyIdentifiers": 4038,
+    "companyIdentifiers": 4045,
     "descriptors": 24,
     "services": 76
   },
@@ -8442,7 +8449,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-09-28",
+  "generatedAt": "2026-10-05",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8827,7 +8834,7 @@
     }
   },
   "source": {
-    "commit": "bf121603e6a12a711908a9e43bd248fed2d3d814",
+    "commit": "cbc339836fd4eade9debf2ffe5acf16cedae94d7",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
