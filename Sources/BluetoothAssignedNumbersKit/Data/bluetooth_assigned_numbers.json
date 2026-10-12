@@ -8318,12 +8318,14 @@
     "112B": "IXI Eyewear Oy",
     "112C": "mees audio technology., co.ltd.",
     "112D": "Aktiia S.A.",
-    "112E": "Oticon Medical AB"
+    "112E": "Oticon Medical AB",
+    "112F": "SECANDA Systems AG",
+    "1130": "Pi Variables, Inc."
   },
   "counts": {
     "appearances": 342,
     "characteristics": 512,
-    "companyIdentifiers": 4045,
+    "companyIdentifiers": 4047,
     "descriptors": 24,
     "services": 76
   },
@@ -8449,7 +8451,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-10-05",
+  "generatedAt": "2026-10-12",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8834,7 +8836,7 @@
     }
   },
   "source": {
-    "commit": "cbc339836fd4eade9debf2ffe5acf16cedae94d7",
+    "commit": "a01ced413cbcad5c64dda1b581541c2453f75193",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
