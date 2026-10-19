@@ -8317,15 +8317,17 @@
     "112A": "Flowil International Lighting (Holding) B.V.",
     "112B": "IXI Eyewear Oy",
     "112C": "mees audio technology., co.ltd.",
-    "112D": "Aktiia S.A.",
+    "112D": "Aktiia SA",
     "112E": "Oticon Medical AB",
     "112F": "SECANDA Systems AG",
-    "1130": "Pi Variables, Inc."
+    "1130": "Pi Variables, Inc.",
+    "1131": "Chirp Innovation, LLC",
+    "1132": "Nicrew Technology Co., Limited"
   },
   "counts": {
     "appearances": 342,
     "characteristics": 512,
-    "companyIdentifiers": 4047,
+    "companyIdentifiers": 4049,
     "descriptors": 24,
     "services": 76
   },
@@ -8451,7 +8453,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-10-12",
+  "generatedAt": "2026-10-19",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8836,7 +8838,7 @@
     }
   },
   "source": {
-    "commit": "a01ced413cbcad5c64dda1b581541c2453f75193",
+    "commit": "408f4a0305d87ea75d9f700e3c8f85aa1d3a74fd",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
