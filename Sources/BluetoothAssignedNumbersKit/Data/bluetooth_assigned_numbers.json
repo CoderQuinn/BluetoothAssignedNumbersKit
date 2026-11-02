@@ -8330,12 +8330,15 @@
     "1137": "Eberlein Innovations EOOD",
     "1138": "Crane Aerospace & Electronics",
     "1139": "NaturalCycles Nordic AB",
-    "113A": "Celadon, Inc."
+    "113A": "Celadon, Inc.",
+    "113B": "ONiO AS",
+    "113C": "SOTI INC.",
+    "113D": "Venndelta Pty Ltd"
   },
   "counts": {
     "appearances": 342,
     "characteristics": 512,
-    "companyIdentifiers": 4057,
+    "companyIdentifiers": 4060,
     "descriptors": 24,
     "services": 76
   },
@@ -8461,7 +8464,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-10-26",
+  "generatedAt": "2026-11-02",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8846,7 +8849,7 @@
     }
   },
   "source": {
-    "commit": "e7f76d7c5e2edced4872a352ff4a300610ac8212",
+    "commit": "ffab63905e3b3eb2bd14922be73a8fa7ff72abed",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
