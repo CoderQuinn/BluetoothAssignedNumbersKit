@@ -8323,7 +8323,7 @@
     "1130": "Pi Variables, Inc.",
     "1131": "Chirp Innovation, LLC",
     "1132": "Nicrew Technology Co., Limited",
-    "1133": "THE KEEON Co., Ltd.",
+    "1133": "THEKEEON Co., Ltd.",
     "1134": "Barksdale, Inc.",
     "1135": "Shenzhen GetD Technology Co.,Ltd.",
     "1136": "Loop",
@@ -8333,12 +8333,17 @@
     "113A": "Celadon, Inc.",
     "113B": "ONiO AS",
     "113C": "SOTI INC.",
-    "113D": "Venndelta Pty Ltd"
+    "113D": "Venndelta Pty Ltd",
+    "113E": "Westinghouse Air Brake Technologies Corporation",
+    "113F": "Dreamarea Inc.",
+    "1140": "WEGZWEI GmbH",
+    "1141": "AXsensor AB (publ)",
+    "1142": "Eight Sleep Inc."
   },
   "counts": {
     "appearances": 342,
     "characteristics": 512,
-    "companyIdentifiers": 4060,
+    "companyIdentifiers": 4065,
     "descriptors": 24,
     "services": 76
   },
@@ -8464,7 +8469,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-11-02",
+  "generatedAt": "2026-11-09",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8849,7 +8854,7 @@
     }
   },
   "source": {
-    "commit": "ffab63905e3b3eb2bd14922be73a8fa7ff72abed",
+    "commit": "129ab53e87e6141512a1d4a06a0ffc04bb9c9eb1",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
