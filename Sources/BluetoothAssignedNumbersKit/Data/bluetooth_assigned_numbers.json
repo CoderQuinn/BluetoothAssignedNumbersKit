@@ -8338,12 +8338,22 @@
     "113F": "Dreamarea Inc.",
     "1140": "WEGZWEI GmbH",
     "1141": "AXsensor AB (publ)",
-    "1142": "Eight Sleep Inc."
+    "1142": "Eight Sleep Inc.",
+    "1143": "Shenzhen HJT Electronics Co., Ltd.",
+    "1144": "GENXUNITED HOLDINGS INC.",
+    "1145": "Hon Hai Precision Ind. Co., Ltd.",
+    "1146": "Murray Blair Pty Ltd",
+    "1147": "NESTLE PURINA PETCARE COMPANY",
+    "1148": "Revelyst, Inc.",
+    "1149": "ITOKI CORPORATION",
+    "114A": "ASIMUT SOFTWARE ApS",
+    "114B": "Triciti Coverage LLC",
+    "114C": "Acin Instrumenten B.V."
   },
   "counts": {
     "appearances": 342,
     "characteristics": 512,
-    "companyIdentifiers": 4065,
+    "companyIdentifiers": 4075,
     "descriptors": 24,
     "services": 76
   },
@@ -8469,7 +8479,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-11-09",
+  "generatedAt": "2026-11-16",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8854,7 +8864,7 @@
     }
   },
   "source": {
-    "commit": "129ab53e87e6141512a1d4a06a0ffc04bb9c9eb1",
+    "commit": "a1195b2b51b13cf6e94fb66eced9c5659db33c94",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
