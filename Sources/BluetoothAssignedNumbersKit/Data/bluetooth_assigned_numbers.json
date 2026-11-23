@@ -7758,7 +7758,7 @@
     "0E93": "MIV ELECTRONICS, LTD",
     "0E94": "Tactrix",
     "0E95": "Viaanix, Inc.",
-    "0E96": "Skeed,co,Ltd.",
+    "0E96": "SCSK Corporation",
     "0E97": "kokoromil Inc.",
     "0E98": "Chromatic Inc.",
     "0E99": "Medibound, Inc.",
@@ -8348,12 +8348,19 @@
     "1149": "ITOKI CORPORATION",
     "114A": "ASIMUT SOFTWARE ApS",
     "114B": "Triciti Coverage LLC",
-    "114C": "Acin Instrumenten B.V."
+    "114C": "Acin Instrumenten B.V.",
+    "114D": "LightingSoft AG",
+    "114E": "AutoStoa LLC",
+    "114F": "Electronic Silk Road (Shenzhen) Tech Co., Ltd",
+    "1150": "Kaz USA, Inc.",
+    "1151": "MEIKO Maschinenbau GmbH & Co. KG",
+    "1152": "LIMITED LIABILITY COMPANY “SFERA TELEMATICS”",
+    "1153": "Humax"
   },
   "counts": {
     "appearances": 342,
     "characteristics": 512,
-    "companyIdentifiers": 4075,
+    "companyIdentifiers": 4082,
     "descriptors": 24,
     "services": 76
   },
@@ -8479,7 +8486,7 @@
       "uuid": "2917"
     }
   },
-  "generatedAt": "2026-11-16",
+  "generatedAt": "2026-11-23",
   "schemaVersion": 1,
   "services": {
     "1800": {
@@ -8864,7 +8871,7 @@
     }
   },
   "source": {
-    "commit": "a1195b2b51b13cf6e94fb66eced9c5659db33c94",
+    "commit": "0229b1fa46c3252f59b71f82a3fd1a752bb08289",
     "repository": "https://bitbucket.org/bluetooth-SIG/public.git"
   }
 }
